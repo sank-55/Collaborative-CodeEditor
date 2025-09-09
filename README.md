@@ -2,7 +2,9 @@ Real-time Collaborative Code Editor
 A full-stack web application designed to provide a seamless, real-time collaborative coding environment. This platform leverages modern web technologies to enable multiple users to write and edit code together in a shared session, much like Google Docs for code.
 <h1 Here are Some Snaps of the Landing page>
 <img width="1352" height="608" alt="Screenshot 2025-08-30 194004" src="https://github.com/user-attachments/assets/0f483033-0371-45c1-947e-fa7f87ad39ea" />
+<img width="1350" height="721" alt="Screenshot 2025-09-10 002223" src="https://github.com/user-attachments/assets/c6f467b7-3fb3-4cb4-bfd9-8602087b235c" />
 
+![Uploading Screenshot 2025-09-10 002238.png…]()
 
 🚀 Key Features
 Real-time Synchronization: Built with WebSockets for instant, bi-directional communication, ensuring that code changes are reflected across all connected clients in a fraction of a second.
