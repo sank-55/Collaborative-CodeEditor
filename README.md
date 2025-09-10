@@ -15,6 +15,10 @@ Session Management: Implements a room-based architecture with unique session IDs
 
 Full-Stack Architecture: A robust and scalable system powered by Node.js and Express.js on the backend, complemented by a dynamic and responsive frontend built with React.js and styled with Tailwind CSS.
 
+Here is the System Design plan for this Project:
+
+<img width="805" height="358" alt="Screenshot 2025-09-10 095137" src="https://github.com/user-attachments/assets/e4cd31de-386c-4966-bdb8-0599a72e6a2d" />
+
 🛠️ Tech Stack
 Technology
 
